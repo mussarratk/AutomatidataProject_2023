@@ -1,5 +1,4 @@
 # Automatidata Project README
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Python Version](https://img.shields.io/badge/Python-3.7%20%7C%203.8%20%7C%203.9-blue)](https://www.python.org/downloads/release/python-390/)
 [![Tableau Version](https://img.shields.io/badge/Tableau-2021.2%2B-blue)](https://www.tableau.com/support/releases)
 [![Contributors](https://img.shields.io/github/contributors/Automatidata/Automatidata_Project)](https://github.com/Automatidata/Automatidata_Project/graphs/contributors)
@@ -75,8 +74,4 @@ The impact of the Automatidata Project extends to multiple stakeholders. The NYC
 
 ## Acknowledgment
 
-We extend our gratitude to the New York City Taxi & Limousine Commission for providing access to their valuable dataset, enabling us to conduct this comprehensive analysis. Additionally, we acknowledge the dedicated efforts of the Automatidata team members who contributed to various phases of this project, from data cleaning and coding to analysis and visualization.
-
 Thank you for your interest in the Automatidata Project!
-
-For any inquiries or feedback, please contact the Automatidata team at [contact@automatidata.com](mailto:contact@automatidata.com).
