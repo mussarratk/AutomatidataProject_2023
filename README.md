@@ -2,6 +2,8 @@
 [![Python Version](https://img.shields.io/badge/Python-3.7%20%7C%203.8%20%7C%203.9-blue)](https://www.python.org/downloads/release/python-390/)
 [![Tableau Version](https://img.shields.io/badge/Tableau-2021.2%2B-blue)](https://www.tableau.com/support/releases)
 [![Contributors](https://img.shields.io/github/contributors/Automatidata/Automatidata_Project)](https://github.com/Automatidata/Automatidata_Project/graphs/contributors)
+![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=mussarratk.mussarratk)
+
 
 Welcome to the Automatidata Project! This repository contains the code, documentation, and visualizations for the data analysis project conducted by Automatidata for the New York City Taxi & Limousine Commission (New York City TLC). Below is the table of contents for this README file:
 
